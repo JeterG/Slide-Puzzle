@@ -10,14 +10,14 @@ Compiling:
                 tasm GUTIER`~`1.ASM
             The output should compile with no Error Messages or warning
             it will create the following file
-                GUTIER~1.OBJ
+                GUTIER`~`1.OBJ
             That file will be used to link the program with the following command
-                tlink /t GUTIER~1.OBJ
+                tlink /t GUTIER`~`1.OBJ
             Then Run the Program simply by typing 
-                GUTIER~1.COM
+                GUTIER`~`1.COM
             in the dosbox.
 
 Running .COM file:
                     Run the Program simply by typing 
-                        GUTIER~1.COM
+                        GUTIER`~`1.COM
                     in the dosbox.
