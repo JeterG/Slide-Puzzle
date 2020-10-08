@@ -7,7 +7,7 @@ Ways to run the Program
 
 Compiling:
             on Dos Box run the following command
-                tasm GUTIER~1.ASM
+                tasm GUTIER`~`1.ASM
             The output should compile with no Error Messages or warning
             it will create the following file
                 GUTIER~1.OBJ
